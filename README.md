@@ -1,1 +1,8 @@
+- created global types for typeSafety
 - used query parameter in search box
+- flow of news fetching -->
+- - graphql query
+  - fetch function with NextJs 13 caching...
+  - sorted news by image first
+  - sort function by images vs not images present
+  - return response
