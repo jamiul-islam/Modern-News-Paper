@@ -4,5 +4,5 @@
 - - graphql query
   - fetch function with NextJs 13 caching...
   - sorted news by image first
-  - sort function by images vs not images present
-  - return response
+  - returned the response
+- dark theme synced with system theme

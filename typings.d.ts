@@ -3,11 +3,11 @@ type Article = {
   category: String;
   country: String;
   description: String;
-  image: String | null;
+  image: string | null;
   language: String;
   published_at: DateTime;
   source: String;
-  title: String;
+  title: string;
   url: String;
 };
 
