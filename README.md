@@ -11,3 +11,4 @@
 - dynamic search result using query parameters
 - dynamic routing with static page regeneration
 - relative timestamp (X days ago)
+- added next13's loading sate

@@ -24,12 +24,12 @@ function DarkModeButton() {
     <div>
       {currentTheme === "dark" ? (
         <SunIcon
-          className="h-8 w-8 cursor-pointer text-yellow-500"
+          className="h-8 w-8 cursor-pointer text-yellow-500 mr-4"
           onClick={() => setTheme("light")}
         />
       ) : (
         <MoonIcon
-          className="h-8 w-8 cursor-pointer text-gray-900"
+          className="h-8 w-8 cursor-pointer text-gray-900 mr-4"
           onClick={() => setTheme("dark")}
         />
       )}
