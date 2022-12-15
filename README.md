@@ -6,3 +6,4 @@
   - sorted news by image first
   - returned the response
 - dark theme synced with system theme
+- dynamic page using query parameters
