@@ -1,3 +1,4 @@
+- planned using the layout component
 - created global types for typeSafety
 - used query parameter in search box
 - flow of news fetching -->
@@ -7,3 +8,4 @@
   - returned the response
 - dark theme synced with system theme
 - dynamic page using query parameters
+- dynamic search result using query parameters
