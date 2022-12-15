@@ -10,3 +10,4 @@
 - dynamic page using query parameters
 - dynamic search result using query parameters
 - dynamic routing with static page regeneration
+- relative timestamp (X days ago)
